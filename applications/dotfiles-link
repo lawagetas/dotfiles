@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -nsf ~/.local/share/dotfiles/config/zsh/alias.zsh ~/.oh-my-zsh/custom/
