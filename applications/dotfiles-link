@@ -2,3 +2,4 @@
 
 ln -nsf ~/.local/share/dotfiles/config/zsh/alias.zsh ~/.oh-my-zsh/custom/
 ln -nsf ~/.local/share/dotfiles/config/zsh/envs.zsh ~/.oh-my-zsh/custom/
+ln -nsf ~/.local/share/dotfiles/config/ghostty/config ~/.config/ghostty/
