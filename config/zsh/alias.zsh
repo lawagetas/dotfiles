@@ -15,5 +15,9 @@ alias ....='cd ../../..'
 alias n='nvim'
 alias g='git'
 alias nvimdiff='nvim -d'
+alias bat='batcat'
 alias cat='bat'
 alias grep='rg'
+
+
+alias yt-dlp='yt-dlp -t mp4'

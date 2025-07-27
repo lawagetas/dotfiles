@@ -2,6 +2,8 @@ shell-integration=zsh
 command=zsh -l
 window-inherit-working-directory=true
 
+font-size=10
+
 # This is the configuration file for Ghostty.
 #
 # This template file has been automatically created at the following
